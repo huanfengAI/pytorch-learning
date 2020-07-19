@@ -1,5 +1,12 @@
 # pytorch-learning
-learning-pytorch 
+<table>
+  <tr>
+    <td>所有代码通过深度学习框架pytorch实现，本代码是<a href="https://learning.snssdk.com/feoffline/toutiao_wallet_bundles/toutiao_learning_wap/online/album_detail.html?content_id=6734625359678931204">pytorch极简入门的配套代码</a></td>
+  </tr>
+  <tr>
+    <td>本专栏也在CSDN博客开通，欢迎关注<a href="https://blog.csdn.net/huanfeng_AI"/></td>
+  </tr>
+</table>
 <table>
   <tr>
     <td>目录</td>
