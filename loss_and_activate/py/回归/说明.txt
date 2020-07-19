@@ -1,0 +1,4 @@
+LinearRegression是使用pytorch构建的一元线性回归模型
+LogisticRegression是使用pytorch构建的逻辑回归模型
+Linearone表示使用python构造的一元线性回归模型
+Linearmore表示使用python构造的三元线性回归模型

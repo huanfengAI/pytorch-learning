@@ -1,0 +1,14 @@
+CNN是卷积神经网络
+CNN_mnist是CNN完成手写字体识别的任务
+CNN_mnist_loss是CNN完成手写字体识别的任务，附代损失函数图像可视化
+LeNet_MNIST使用LeNet网络模型完成手写字体识别
+AlexNet_mnist使用AlexNet_mnist完成手写字体识别
+VGG_blockv是vgg块
+VGG16是使用vgg块搭建的VGG16
+VGG是通过基本的卷积层搭建VGG
+VGG_MNIST是通过VGG完成手写字体识别
+VGG_CAFIR10是通过VGG完成CAFIR数据集
+Inception是GoogLeNet的Inception模块
+GoogLeNet是基于Inception搭建的GooLeNet网络模型
+GoogLeNet_CIFAR10是基于GooLeNet完成CAFIR10的分类任务
+

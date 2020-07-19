@@ -1,0 +1,4 @@
+show是torchvision库下显示图片的功能
+pretrained是使用torchvision中已经封装好的模型
+transform是常用的数据转换
+collate_fn是使用collate_fn来处理异常样本

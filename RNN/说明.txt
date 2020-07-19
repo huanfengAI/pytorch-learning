@@ -1,0 +1,3 @@
+RNN_MNIST是使用RNN完成手写字体的识别
+lstm_time_series是LSTM完成时间序列的预测
+Speech_Tagger是使用LSTM完成词性标注
